@@ -1,0 +1,11 @@
+#program 1
+Name=input("enter the name : ")
+Branch=input("enter the Branch : ")
+Gender=input("enter the Gender : ")
+College=input("enter the College : ")
+Age=input("enter the Age : ")
+print("Name: ",Name)
+print("Branch: ",Branch)
+print("Gender: ",Gender)
+print("College: ",College)
+print("Age: ",Age)
